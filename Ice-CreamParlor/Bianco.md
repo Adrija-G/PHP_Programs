@@ -3,12 +3,12 @@
 Welcome to Bianco Ice Cream Parlor, a virtual ice cream parlor simulation where you can order your favorite ice creams with various flavors and toppings.
 
 ## Features
-- Choose from a variety of ice cream types, including sundaes, cones, cups, and more.
-- Explore a wide selection of ice cream flavors, such as Vanilla, Chocolate, Strawberry, and many more.
-- Add delicious toppings like Sprinkles, Chocolate Chips, Whipped Cream, and more to customize your ice cream.
-- Place your order with an interactive menu and receive a unique order number.
-- Serve and view your ice cream orders, including the type, flavor, and toppings.
-- Enjoy the convenience of an easy-to-use command-line interface.
+- 🍦 Choose from a variety of ice cream types, including sundaes, cones, cups, and more.
+- 🍨 Explore a wide selection of ice cream flavors, such as Vanilla, Chocolate, Strawberry, and many more.
+- 🍫 Add delicious toppings like Sprinkles, Chocolate Chips, Whipped Cream, and more to customize your ice cream.
+- 📋 Place your order with an interactive menu and receive a unique order number.
+- 🍽️ Serve and view your ice cream orders, including the type, flavor, and toppings.
+- 💻 Enjoy the convenience of an easy-to-use command-line interface.
 
 ## Usage
 1. Clone the Bianco Ice Cream Parlor repository.
@@ -16,7 +16,7 @@ Welcome to Bianco Ice Cream Parlor, a virtual ice cream parlor simulation where 
 3. Follow the on-screen instructions to place an order or serve orders.
 4. Have a sweet time at Bianco Ice Cream Parlor!
 
-## Ice Cream Types
+## 🍦 Ice Cream Types
 1. Sundae
 2. Cone
 3. Cup
@@ -28,7 +28,7 @@ Welcome to Bianco Ice Cream Parlor, a virtual ice cream parlor simulation where 
 9. Affogato
 10. Sorbet
 
-## Flavors
+## 🍧 Flavors
 - Vaniglia (Classic Vanilla)
 - Cioccolato (Classic Chocolate)
 - Stracciatella (vanilla with chocolate bits)
@@ -46,7 +46,7 @@ Welcome to Bianco Ice Cream Parlor, a virtual ice cream parlor simulation where 
 - Rocky Road
 - Pistachio
 
-## Toppings
+## 🍨 Toppings
 - Sprinkles
 - Chocolate Chips
 - Whipped Cream
