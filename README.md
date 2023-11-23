@@ -1,7 +1,5 @@
 # PHP Programs
 
-A list of PHP programs. More will be added over time.
-
 # Contents
 ## [Number System Conversions](https://github.com/Adrija-G/PHP_Programs/tree/main/NumberSystemConversions)
 
